@@ -19,7 +19,7 @@ Este es un simple conversor de monedas que utiliza la API de tasas de cambio par
    ```
 
 
-3. **Configurar la clave de API**: Abre el archivo `Main.java` en el directorio `src/main/java/conversordemonedas` y reemplaza `"YOUR_API_KEY"` en la línea 15 con tu clave de API obtenida anteriormente.
+3. **Configurar la clave de API**: Abre el archivo `Main.java` en el directorio `src/main/java/conversordemonedas` y reemplaza `"YOUR_API_KEY"` en la línea 10 con tu clave de API obtenida anteriormente.
 
 4. **Compilar la aplicación**: Ve al directorio del proyecto y compila la aplicación usando Maven:
   ```bash
